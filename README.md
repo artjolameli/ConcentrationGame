@@ -1,6 +1,6 @@
 # ConcentrationGame
 
-
+You can check out the demo of the app by clicking this link: https://youtu.be/p_Doq7R8Gd4
 
 1. From Xcode, select the project root in the Project Navigator.
 2. Right click, and select Add Files to <Your Project>...
